@@ -18,15 +18,16 @@ This repository contains robust and scalable end-to-end web automation tests usi
 
 ---
 
-## 📂 Project Structure
+## ✨ Features
 
-```
-├── pages/
-│   └── DashboardPage.ts   # Dashboard page object and assertions
-├── tests/
-│   └── ...                # Your Playwright test files
-├── package.json
-└── README.md
+- ⚡ **Fast & Reliable**: Automated browser testing with Playwright.
+- 🤖 **AI Integration**: Uses OpenAI for intelligent test data generation and advanced validations.
+- 🔒 **Authentication Flows**: Includes login verification and dashboard checks.
+- 🧩 **Modular Structure**: Page Object Model for maintainable and reusable code.
+- 📸 **Screenshots & Reporting**: Automatically captures screenshots on test failures for easy debugging.
+- 🛠️ **Easy to Extend**: Add new tests and pages with minimal effort.
+
+---
 ```
 
 ---
