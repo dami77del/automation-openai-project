@@ -4,10 +4,10 @@ export class DashboardPage {
   constructor(private page: Page) {}
 
   // Elementos
-  private welcomeMessage = () => this.page.locator('.oxd-userdropdown-name');
+  private welcomeMessage = () => this.page.locator("//h6[normalize-space()='Dashboard']");
 
   // Verificaciones
   async assertLoginSuccess() {
-    await expect(this.welcomeMessage()).toContainText('Welcome');
+    await expect(this.welcomeMessage()).toContainText('Dashboard');
   }
 }
