@@ -1,4 +1,4 @@
-# 🚀 IA Automation Project
+# 🚀 AI Automation Project
 
 ![Playwright](https://img.shields.io/badge/Playwright-Testing-green?logo=playwright)
 ![TypeScript](https://img.shields.io/badge/TypeScript-4.x-blue?logo=typescript)
